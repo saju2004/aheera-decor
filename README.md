@@ -1,7 +1,10 @@
 # Aheera Decor — Premium Home Decor & Interior Living Storefront
 
 > **Portfolio Showcase Demo**  
-> *A fictional international luxury interior decor brand engineered to demonstrate senior frontend development, e-commerce UI/UX, responsive layout architecture, client-side data filtering, and state management.*
+> *A fictional international luxury interior decor brand engineered to demonstrate senior frontend development, e-commerce UI/UX, responsive layout architecture, client-side data filtering, and state management.*  
+>  
+> 🌐 **Live Demo Website:** [https://saju2004.github.io/aheera-decor/](https://saju2004.github.io/aheera-decor/)  
+> 📦 **GitHub Repository:** [https://github.com/saju2004/aheera-decor](https://github.com/saju2004/aheera-decor)
 
 ---
 
