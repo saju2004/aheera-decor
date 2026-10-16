@@ -1,0 +1,51 @@
+:root {
+  /* Brand Color Palette */
+  --color-ivory: #F8F6F1;
+  --color-ivory-light: #FDFCF9;
+  --color-white: #FFFFFF;
+  --color-charcoal: #252522;
+  --color-charcoal-light: #383834;
+  --color-charcoal-muted: #61615B;
+  --color-muted-olive: #777B60;
+  --color-olive-dark: #585C42;
+  --color-olive-light: #EBECE4;
+  --color-sand: #D8C7B1;
+  --color-sand-light: #F2ECE3;
+  --color-sand-hover: #C9B59D;
+  --color-taupe: #B9AA99;
+  --color-border: #E8E3DA;
+  --color-border-subtle: #F0ECE4;
+  --color-surface: #FFFFFF;
+  --color-badge-sale: #8E4A49;
+  --color-badge-sale-bg: #FAEEEE;
+  --color-badge-new: #5E6953;
+  --color-badge-new-bg: #EFF3EC;
+
+  /* Typography */
+  --font-serif: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  /* Transitions */
+  --transition-fast: 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-normal: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+
+  /* Shadows (minimal and soft for luxury look) */
+  --shadow-sm: 0 1px 3px rgba(37, 37, 34, 0.04), 0 1px 2px rgba(37, 37, 34, 0.02);
+  --shadow-md: 0 4px 12px rgba(37, 37, 34, 0.06), 0 1px 3px rgba(37, 37, 34, 0.04);
+  --shadow-lg: 0 12px 30px rgba(37, 37, 34, 0.08), 0 4px 10px rgba(37, 37, 34, 0.03);
+  --shadow-hover: 0 16px 36px rgba(37, 37, 34, 0.1);
+
+  /* Layout & Spacing */
+  --container-max-width: 1400px;
+  --container-padding: 2rem;
+  --header-height: 80px;
+  --announcement-height: 38px;
+
+  /* Radii */
+  --radius-xs: 2px;
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-full: 9999px;
+}
